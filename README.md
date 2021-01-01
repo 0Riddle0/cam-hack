@@ -14,7 +14,7 @@ Hack Cameras
 
 * pip3 install colorama
 
-* cd Cam-Hackers
+* cd cam-hack
 
 * python3 cam-hackers.py
 
